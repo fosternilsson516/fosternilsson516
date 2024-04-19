@@ -8,7 +8,9 @@ I'm a dedicated data engineer passionate about designing and building efficient 
 - **AWS Lambda** - for running serverless computing.
 - **Cloud Solutions** - for scalable and flexible infrastructure.
 
-Currently, I am deepening my knowledge in Linux, particularly Ubuntu 22.04, to manage lightweight Docker containers. These containers are designed to collaborate effectively, processing data and driving results efficiently.
+I'm currently deepening my knowledge in Linux, particularly Ubuntu 22.04, to manage lightweight Docker containers. These containers are designed to collaborate effectively, processing data and driving results efficiently.
+
+In addition, I'm very interested in expanding my expertise into advanced data warehousing solutions like Snowflake and exploring cutting-edge analytical tools like Databricks. My goal is to leverage these technologies to further enhance data-driven decision-making processes.
 
 ---
 
